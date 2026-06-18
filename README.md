@@ -9,9 +9,9 @@ Bienvenido a mi primer proyecto de juego en Python! Es un juego interactivo de t
 
 
 
-#Juego con gráfica básica
-Este es el segundo juego que creo se desarrolla en Python. Esta vez queremos que utilice grafica. Se llama "Bot-i, el recolector de chatarra cósmica"
+#Juego con gráfica básica de Motos
+Este es el segundo juego que creo se desarrolla en Python. Esta vez queremos que utilice grafica. 
 ##Y COMO JUEGO
-1º Descarga juego_grafico.py
-2ª ejecuta en tu terminal o colab !python juego_grafico.py
-3º A recolectar!
+1º Descarga juego_nuevo.py
+2ª ejecuta en tu terminal o colab juego_nuevo.py
+3º A rodar!
